@@ -21,6 +21,10 @@ public class TestingFile {
 
     }
 
+    public static void printDavid() {
+        System.out.println("David");
+    }
+
     public TestingFile(String noah) {
         this.noah = noah;
     }

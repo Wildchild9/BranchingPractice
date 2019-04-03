@@ -16,6 +16,9 @@ public class TestingFile {
         System.out.println("I got so much GIT");
 
         System.out.println("Wow, I'm branching!");
+
+        System.out.println("2 + 2 = " + (2 + 2));
+
     }
 
     public TestingFile(String noah) {

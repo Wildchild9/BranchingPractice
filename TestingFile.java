@@ -19,4 +19,12 @@ public class TestingFile {
     public TestingFile(String noah) {
         this.noah = noah;
     }
+
+    public String getNoah() {
+        return noah;
+    }
+
+    public void setNoah(String noah) {
+        this.noah = noah;
+    }
 }

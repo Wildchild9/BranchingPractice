@@ -10,7 +10,13 @@ package Branching;
 
 
 public class TestingFile {
+    String noah;
+
     public static void main(String[] args) {
         System.out.println("I got so much GIT");
+    }
+
+    public TestingFile(String noah) {
+        this.noah = noah;
     }
 }

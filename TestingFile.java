@@ -21,6 +21,9 @@ public class TestingFile {
 
     }
 
+    public static void newStuff() {
+        System.out.println("New stuff");
+    }
     public static void printDavid() {
         System.out.println("David");
     }

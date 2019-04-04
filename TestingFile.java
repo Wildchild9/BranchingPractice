@@ -1,11 +1,11 @@
 package Branching;
 
 //
-// Project name: FSTGrade11
-// Program name: TestingFile.java
-// Purpose: 
-// Created by David Shemesh on 2019-04-03.
-// Copyright © 2018 David Shemesh. All rights reserved.
+// TestingFile.java
+// ComputerScience
+//
+// Copyright © 2019 Noah Wilder & David Shemesh. All rights reserved.
+// Last modified on 04/04/19 3:49 PM.
 //
 
 
@@ -18,7 +18,6 @@ public class TestingFile {
         System.out.println("Wow, I'm branching!");
 
         System.out.println("2 + 2 = " + (2 + 2));
-
     }
 
     public static void newStuff() {
